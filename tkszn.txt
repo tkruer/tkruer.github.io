@@ -11,4 +11,4 @@ If you are interested in my work, and would like to reach out<!-- slightdelayher
 
 <p>Thank you for checking this page out : )</p>
 
-<span id="a">code@mckay</span>:
+<span id="a">code@tyler</span>:
