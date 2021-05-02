@@ -4,7 +4,7 @@
 
 Hey There! <!-- laglaglaglaglaglaglaglaglaglaglaglag --><p>My name is Tyler K.</p>
 <p>I am a Junior at ASU, studying Public Health and chasing the dream of attending medical school to become a Physician. In my free time I work on Software development for auotmation projects and webscraping. :)</p> <!-- ksjdokhdfgdufdfkjhfkjahdfkjhafkjhakf -->
-<p>I began coding while working with software to assist in purchasing limited sneakers, which eventually ended up spiraling into a unique hobby, while showing me the ropes of how medicine and code can be united together and produce some real breakthoughs. One of my most favorite projects I built was an iOS App built on Apple's CoreML platform. You can checkout the project <br> <a href="https://github.com/tkszn/Dermo-CoreML">here.</a> <br> <a href=""></a></p><!-- kjdhjhgdgldjhgdwtoiewotwotjdfkjdfffsf -->
+<p>I began coding while working with software to assist in purchasing limited sneakers, which eventually ended up spiraling into a unique hobby, while showing me the ropes of how medicine and code can be united together and produce some real breakthoughs. One of my most favorite projects I built was an iOS App built on Apple's CoreML platform. You can checkout the project <a href="https://github.com/tkszn/Dermo-CoreML">here.</a> <br> <a href=""></a></p><!-- kjdhjhgdgldjhgdwtoiewotwotjdfkjdfffsf -->
 <p>At the moment, all of this is a hobby and I enjoy working on it with my friends. Without them, I would have no idea where I would be.<a href=""></a></p><!-- kjdhjhgdgldjhgdwtoiewotwotjdfkjdfffsf -->
 
 If you are interested in my work, and would like to reach out<!-- slightdelayhere-->, feel free to send me an email at <!-- longlonglongcomment --><a href=>tyler@kruerindustries.org</a>.
