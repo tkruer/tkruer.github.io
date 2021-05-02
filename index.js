@@ -98,7 +98,7 @@ function replaceUrls(text) {
 }
 
 Typer.speed=3;
-Typer.file="Tyler.txt";
+Typer.file="tkszn.txt";
 Typer.init();
  
 var timer = setInterval("t();", 30);
